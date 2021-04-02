@@ -17,6 +17,8 @@ Git
 \f1\b \cf4 is
 \f0\b0 \cf2  free software.\
 \
+Test\
+\
 foxMacMini:gysdk mac$ gri 5602f98\
 Stopped at f6c5daa...  1.
 \f2 \'bc\'d3\'c7\'bf\'b7\'b4\'c6\'db\'d5\'a9\'b9\'a6\'c4\'dc
